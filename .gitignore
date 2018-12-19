@@ -1,0 +1,12 @@
+annotations*
+cocoapi
+Dataset-Flickr8k
+train2017
+train_logs
+*zip
+*h5
+WordEmbeddings.ipynb
+*keras
+*ipynb
+__pycache__
+.goutputstream-OW3TTZ
